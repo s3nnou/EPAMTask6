@@ -7,6 +7,9 @@ using Xunit;
 
 namespace Task6Tests
 {
+    /// <summary>
+    /// Data object creation tests
+    /// </summary>
     public class DataObjectsCreationTests
     {
         /// <summary>

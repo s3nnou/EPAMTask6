@@ -6,6 +6,9 @@ using System.Linq;
 
 namespace FileExtensions
 {
+    /// <summary>
+    /// Reports data sorting methods
+    /// </summary>
     public class SortingMethods
     {
         /// <summary>
